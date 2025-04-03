@@ -1,0 +1,15 @@
+# Main Costa Rica Mirror
+deb http://cr.archive.ubuntu.com/ubuntu/ jammy main restricted universe multiverse
+deb http://cr.archive.ubuntu.com/ubuntu/ jammy-updates main restricted universe multiverse
+deb http://cr.archive.ubuntu.com/ubuntu/ jammy-backports main restricted universe multiverse
+deb http://security.ubuntu.com/ubuntu jammy-security main restricted universe multiverse
+
+# Canonical Partner Repository (optional)
+deb http://archive.canonical.com/ubuntu jammy partner
+
+# Uncomment to enable source packages (if needed)
+# deb-src http://cr.archive.ubuntu.com/ubuntu/ jammy main restricted universe multiverse
+# deb-src http://cr.archive.ubuntu.com/ubuntu/ jammy-updates main restricted universe multiverse
+# deb-src http://cr.archive.ubuntu.com/ubuntu/ jammy-backports main restricted universe multiverse
+# deb-src http://security.ubuntu.com/ubuntu jammy-security main restricted universe multiverse
+
